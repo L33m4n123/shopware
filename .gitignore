@@ -1,7 +1,9 @@
 config.php
+config_*.php
 files/
 media/
 var/
 *.zip
 web/
 recovery/
+.idea/
