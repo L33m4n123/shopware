@@ -1,0 +1,7 @@
+config.php
+files/
+media/
+var/
+*.zip
+web/
+recovery/
